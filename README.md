@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ssaurabh5
 - 👀 I’m interested in Data Analytics and Business Analytics
-- 🌱 I’m currently learning Data Analytics and Visualization
+- 🌱 I’m Experienced in Data Analytics and Visualization
 - 💞️ I’m looking to collaborate on Data Visualization 
 - 📫 reach me on s.mahindrkar@gmail.com
 
